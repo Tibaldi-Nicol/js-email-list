@@ -28,3 +28,5 @@ Salvare le email in un array.
 Aggiornare il DOM per mostrare la lista di email.
 
 Aggiungere un evento al bottone per ripetere il processo quando viene cliccato.
+
+fine

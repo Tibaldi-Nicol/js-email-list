@@ -29,3 +29,5 @@ document.addEventListener("DOMContentLoaded", () => {
     oggetto.getEmails(); // Carica la lista quando la pagina si apre
     document.getElementById("refresh-btn").addEventListener("click", () => oggetto.getEmails());
 });
+
+//fine
